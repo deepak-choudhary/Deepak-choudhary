@@ -53,7 +53,7 @@
 
 ## 🔭 Work & Education
 - 🔧 **Working at:** HCLTech  
-- 🎓 **Studying at:** BITS Pilani  
+- 🎓 **Studying at:**   Amity University   
 
 ---
 
