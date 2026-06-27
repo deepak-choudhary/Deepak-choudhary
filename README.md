@@ -58,11 +58,6 @@
 
 ---
 
-## ⚡ Cool & Fun Widgets
-
----
-
----
 
 ### 🌤 Current Weather (Delhi)
 ![Weather](https://wttr.in/Delhi.png?m)
@@ -76,4 +71,4 @@
 
 ## 📫 Contact
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=ffffff)](https://instagram.com/_its_._deepak)  
-[![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=ffffff)](mailto:deepakchoudhary4029@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=ffffff)](deepakchoudhary4029@gmail.com)
