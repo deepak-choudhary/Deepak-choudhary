@@ -45,7 +45,7 @@
 ## 🧰 Tech / Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,gcp,windows,git,vscode,github,linux,php,docker,ansible,aws,azure" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=python,html,gcp,windows,git,vscode,github,linux,docker,ansible,aws,azure" alt="tech icons"/>
 </p>
 
 **Core skills:** Python · HTML · Google Cloud . · Git · Linux
@@ -71,4 +71,4 @@
 
 ## 📫 Contact
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=ffffff)](https://instagram.com/_its_._deepak)  
-[![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=ffffff)](deepakchoudhary4029@gmail.com)
+[![Email][![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=ffffff)](mailto:deepakchoudhary4029@gmail.com)
