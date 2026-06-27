@@ -3,7 +3,8 @@
 ![Adventure Avatar](https://api.dicebear.com/7.x/adventurer/svg?seed=)
 
 
-> DevOps • Cloud Engineer 
+> DevOps • Cloud Engineer
+
 > Currently working at **HCLTech as a Network L2 Engineer** • Studying at **Amity University**
 
 ![](https://komarev.com/ghpvc/?username=deepak-choudhary))
@@ -44,7 +45,7 @@
 ## 🧰 Tech / Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,gcp,windows,git,vscode,github,linux,php,docker,ansible,terraform,azure cloud" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,gcp,windows,git,vscode,github,linux,php,docker,ansible,aws,azure" alt="tech icons"/>
 </p>
 
 **Core skills:** Python · HTML · Google Cloud . · Git · Linux
